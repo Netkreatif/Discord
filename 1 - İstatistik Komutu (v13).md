@@ -1,6 +1,6 @@
-> Kod Türü: Javascript
-> Kod Adı: İstatistik Komutu
-> Sürüm: d.js v13
+> Kod Türü: Javascript<br>
+> Kod Adı: İstatistik Komutu<br>
+> Sürüm: d.js v13<br>
 
 ```js
 const { MessageEmbed, version } = require("discord.js");
