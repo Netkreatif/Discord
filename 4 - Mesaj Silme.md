@@ -1,7 +1,7 @@
-> **Paylaşan:** Ranxe#2053
-> **Kod Türü:** Javascript
-> **Kod Adı:** Mesaj Silme Komutu
-> **Sürüm:** d.js v13
+> **Paylaşan:** Ranxe#2053<br>
+> **Kod Türü:** Javascript<br>
+> **Kod Adı:** Mesaj Silme Komutu<br>
+> **Sürüm:** d.js v13<br>
 
 ```js
 const Discord = require('discord.js');
